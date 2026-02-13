@@ -1,6 +1,6 @@
-# Bank Account Fraud Detection
+# Bank Account Fraud Detection using Logistic Regression and XGBoost
 
-**Date**: 9 February 2026 \
+**Date**: 9 February 2026 - 15 February 2026 \
 **Author**: Li Zhaozhi (李兆智)
 
 ---
